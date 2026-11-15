@@ -1,4 +1,4 @@
-# Hi, I'm Gopal Nayak 👋
+# Hi, I'm Gopal Kumar 👋
 
 **Full Stack Developer (MERN + AI) | B.Tech CSE @ Lovely Professional University**
 
