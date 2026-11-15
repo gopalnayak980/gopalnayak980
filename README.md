@@ -1,17 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Gopal%20Kumar&fontSize=62&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=60&descSize=20&descColor=ffffff" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:7b2ff7,100:ff00c8&height=240&section=header&text=Gopal%20Kumar&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=60&descSize=22" alt="header" />
 
-<a href="https://github.com/gopalnayak980">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+(MERN+%2B+AI);Building+multi-agent+AI+systems;B.Tech+CSE+%40+Lovely+Professional+University;Open+to+internships" alt="typing animation" />
+<a href="https://gopalnayak980.github.io/gopal-portfolio">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN+%2B+AI);Building+multi-agent+AI+systems;Solving+problems+on+LeetCode;B.Tech+CSE+%40+Lovely+Professional+University;Open+to+internships" alt="typing animation" />
 </a>
 
-<br/>
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-00f5ff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://gopalnayak980.github.io/gopal-portfolio)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopalnayak2005)
 [![LeetCode](https://img.shields.io/badge/LEETCODE-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=ffa116)](https://leetcode.com/u/Gopal_Nayak)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gopalnayak980)
 [![Email](https://img.shields.io/badge/EMAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopal32452@gmail.com)
+
+![Followers](https://img.shields.io/github/followers/gopalnayak980?style=for-the-badge&logo=github&color=7b2ff7&labelColor=0f0c29)
+![Profile Views](https://komarev.com/ghpvc/?username=gopalnayak980&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS&labelColor=0f0c29)
 
 </div>
 
@@ -33,7 +37,17 @@ status     : open to internships
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb,python,fastapi,postgres,redis,git,vercel&theme=dark" alt="tech stack" />
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind&theme=dark" alt="frontend" />
+
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask&theme=dark" alt="backend" />
+
+**Databases and Cloud**<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,redis,firebase,vercel,netlify&theme=dark" alt="databases" />
+
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,npm&theme=dark" alt="tools" />
 
 </div>
 
@@ -41,26 +55,21 @@ status     : open to internships
 
 ## `> featured_projects`
 
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| **DevAgent** | Multi-agent AI engineering platform with human-approved code changes | React, FastAPI, Groq, Celery, PostgreSQL | [Live](https://dev-agent-woad.vercel.app) · [Code](https://github.com/gopalnayak980/DevAgent) |
+| **HireAI** | AI resume matcher and interview prep with live job listings | React, Node, MongoDB, Gemini | [Live](https://hireai-blond.vercel.app) · [Code](https://github.com/gopalnayak980/hireai) |
+| **JARVIS** | Bilingual (Hindi and English) voice assistant with memory and vision | Flask, Gemini, SQLite, WebRTC | [Live](https://jarvis-ai-8zh0.onrender.com) · [Code](https://github.com/gopalnayak980/jarvis-ai) |
+| **WanderList** | Airbnb-inspired travel listings with AI chatbot and price suggestions | Node, Express, MongoDB, Groq | [Live](https://wanderlist-1-msxf.onrender.com) · [Code](https://github.com/gopalnayak980/wanderlist) |
+| **Jai Mata Di Supplier** | Business website with material calculator and WhatsApp enquiry | HTML, CSS, JavaScript | [Live](https://jaimatadibuildingmaterial.com) · [Code](https://github.com/gopalnayak980/jai-mata-di-website) |
+
+---
+
+## `> contributions_3d`
+
 <div align="center">
-
-<table>
-  <tr>
-    <td><a href="https://github.com/gopalnayak980/DevAgent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gopalnayak980&repo=DevAgent&theme=tokyonight&hide_border=true" /></a></td>
-    <td><a href="https://github.com/gopalnayak980/hireai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gopalnayak980&repo=hireai&theme=tokyonight&hide_border=true" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/gopalnayak980/jarvis-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gopalnayak980&repo=jarvis-ai&theme=tokyonight&hide_border=true" /></a></td>
-    <td><a href="https://github.com/gopalnayak980/wanderlist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gopalnayak980&repo=wanderlist&theme=tokyonight&hide_border=true" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/gopalnayak980/jai-mata-di-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gopalnayak980&repo=jai-mata-di-website&theme=tokyonight&hide_border=true" /></a></td>
-    <td><a href="https://github.com/gopalnayak980/gopal-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gopalnayak980&repo=gopal-portfolio&theme=tokyonight&hide_border=true" /></a></td>
-  </tr>
-</table>
-
+  <img src="assets/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
 </div>
-
-**Live demos:** [DevAgent](https://dev-agent-woad.vercel.app) · [HireAI](https://hireai-blond.vercel.app) · [JARVIS](https://jarvis-ai-8zh0.onrender.com) · [WanderList](https://wanderlist-1-msxf.onrender.com) · [Jai Mata Di Supplier](https://jaimatadibuildingmaterial.com)
 
 ---
 
@@ -68,11 +77,36 @@ status     : open to internships
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gopalnayak980&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopalnayak980&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gopalnayak980&theme=tokyonight" />
+<img height="180" src="https://streak-stats.demolab.com?user=gopalnayak980&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gopalnayak980&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-lang?username=gopalnayak980&theme=tokyonight" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gopalnayak980&theme=tokyonight" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer" />
+---
+
+## `> leetcode_stats`
+
+<div align="center">
+  <a href="https://leetcode.com/u/Gopal_Nayak">
+    <img src="https://leetcard.jacoblin.cool/Gopal_Nayak?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
+  </a>
+</div>
+
+---
+
+## `> trophies`
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gopalnayak980&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
+</div>
+
+---
+
+<div align="center">
+  <img src="assets/github-snake-dark.svg" alt="snake animation" width="100%" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00c8,50:7b2ff7,100:00f5ff&height=120&section=footer" width="100%" alt="footer" />
