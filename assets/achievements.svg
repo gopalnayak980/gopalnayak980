@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 366" width="860" height="366" role="img" aria-label="Certificates: AWS Cloud Practitioner Essentials, CipherSchools, NPTEL, Infosys Springboard, LPU">
+<title>Certificates: AWS Cloud Practitioner Essentials, CipherSchools, NPTEL, Infosys Springboard, LPU</title>
+
+<defs>
+<linearGradient id="neon" x1="0" x2="1"><stop offset="0" stop-color="#00f5ff"/><stop offset=".5" stop-color="#7b2ff7"/><stop offset="1" stop-color="#ff00c8"/></linearGradient>
+<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0e1330"/><stop offset="1" stop-color="#070918"/></linearGradient>
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+
+</defs>
+
+<g><rect x="14" y="14" width="403" height="100" rx="14" fill="url(#panel)" stroke="#00f5ff" stroke-opacity=".55"/>
+<polygon points="93.7,48.0 93.7,80.0 66.0,96.0 38.3,80.0 38.3,48.0 66.0,32.0" fill="#00f5ff" fill-opacity=".12" stroke="#00f5ff" stroke-width="2" filter="url(#soft)"/>
+<polygon points="83.3,54.0 83.3,74.0 66.0,84.0 48.7,74.0 48.7,54.0 66.0,44.0" fill="none" stroke="#00f5ff" stroke-opacity=".8"><animateTransform attributeName="transform" type="rotate" from="0 66 64.0" to="360 66 64.0" dur="12s" repeatCount="indefinite"/></polygon>
+<path d="M58 65.0l6 6 11-13" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="116" y="60.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14.5" font-weight="800" fill="#fff">AWS Cloud Practitioner Essentials</text>
+<text x="116" y="84.0" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12.5" fill="#00f5ff">Amazon Web Services · Sep 2026</text></g><g><rect x="443" y="14" width="403" height="100" rx="14" fill="url(#panel)" stroke="#22d3a5" stroke-opacity=".55"/>
+<polygon points="522.7,48.0 522.7,80.0 495.0,96.0 467.3,80.0 467.3,48.0 495.0,32.0" fill="#22d3a5" fill-opacity=".12" stroke="#22d3a5" stroke-width="2" filter="url(#soft)"/>
+<polygon points="512.3,54.0 512.3,74.0 495.0,84.0 477.7,74.0 477.7,54.0 495.0,44.0" fill="none" stroke="#22d3a5" stroke-opacity=".8"><animateTransform attributeName="transform" type="rotate" from="0 495 64.0" to="360 495 64.0" dur="14s" repeatCount="indefinite"/></polygon>
+<path d="M487 65.0l6 6 11-13" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="545" y="60.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="800" fill="#fff">Full-Stack Development</text>
+<text x="545" y="84.0" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12.5" fill="#22d3a5">CipherSchools</text></g><g><rect x="14" y="130" width="403" height="100" rx="14" fill="url(#panel)" stroke="#ff00c8" stroke-opacity=".55"/>
+<polygon points="93.7,164.0 93.7,196.0 66.0,212.0 38.3,196.0 38.3,164.0 66.0,148.0" fill="#ff00c8" fill-opacity=".12" stroke="#ff00c8" stroke-width="2" filter="url(#soft)"/>
+<polygon points="83.3,170.0 83.3,190.0 66.0,200.0 48.7,190.0 48.7,170.0 66.0,160.0" fill="none" stroke="#ff00c8" stroke-opacity=".8"><animateTransform attributeName="transform" type="rotate" from="0 66 180.0" to="360 66 180.0" dur="16s" repeatCount="indefinite"/></polygon>
+<path d="M58 181.0l6 6 11-13" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="116" y="176.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="800" fill="#fff">Generative AI Essentials</text>
+<text x="116" y="200.0" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12.5" fill="#ff00c8">CipherSchools</text></g><g><rect x="443" y="130" width="403" height="100" rx="14" fill="url(#panel)" stroke="#ffd43b" stroke-opacity=".55"/>
+<polygon points="522.7,164.0 522.7,196.0 495.0,212.0 467.3,196.0 467.3,164.0 495.0,148.0" fill="#ffd43b" fill-opacity=".12" stroke="#ffd43b" stroke-width="2" filter="url(#soft)"/>
+<polygon points="512.3,170.0 512.3,190.0 495.0,200.0 477.7,190.0 477.7,170.0 495.0,160.0" fill="none" stroke="#ffd43b" stroke-opacity=".8"><animateTransform attributeName="transform" type="rotate" from="0 495 180.0" to="360 495 180.0" dur="18s" repeatCount="indefinite"/></polygon>
+<path d="M487 181.0l6 6 11-13" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="545" y="176.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14.5" font-weight="800" fill="#fff">Privacy &amp; Security in Online Social Media</text>
+<text x="545" y="200.0" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12.5" fill="#ffd43b">NPTEL · Elite · IIT Madras</text></g><g><rect x="14" y="246" width="403" height="100" rx="14" fill="url(#panel)" stroke="#7b2ff7" stroke-opacity=".55"/>
+<polygon points="93.7,280.0 93.7,312.0 66.0,328.0 38.3,312.0 38.3,280.0 66.0,264.0" fill="#7b2ff7" fill-opacity=".12" stroke="#7b2ff7" stroke-width="2" filter="url(#soft)"/>
+<polygon points="83.3,286.0 83.3,306.0 66.0,316.0 48.7,306.0 48.7,286.0 66.0,276.0" fill="none" stroke="#7b2ff7" stroke-opacity=".8"><animateTransform attributeName="transform" type="rotate" from="0 66 296.0" to="360 66 296.0" dur="20s" repeatCount="indefinite"/></polygon>
+<path d="M58 297.0l6 6 11-13" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="116" y="292.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="800" fill="#fff">Programming Using C++</text>
+<text x="116" y="316.0" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12.5" fill="#7b2ff7">Infosys Springboard</text></g><g><rect x="443" y="246" width="403" height="100" rx="14" fill="url(#panel)" stroke="#3b82f6" stroke-opacity=".55"/>
+<polygon points="522.7,280.0 522.7,312.0 495.0,328.0 467.3,312.0 467.3,280.0 495.0,264.0" fill="#3b82f6" fill-opacity=".12" stroke="#3b82f6" stroke-width="2" filter="url(#soft)"/>
+<polygon points="512.3,286.0 512.3,306.0 495.0,316.0 477.7,306.0 477.7,286.0 495.0,276.0" fill="none" stroke="#3b82f6" stroke-opacity=".8"><animateTransform attributeName="transform" type="rotate" from="0 495 296.0" to="360 495 296.0" dur="22s" repeatCount="indefinite"/></polygon>
+<path d="M487 297.0l6 6 11-13" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="545" y="292.0" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="800" fill="#fff">Programming in Java</text>
+<text x="545" y="316.0" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12.5" fill="#3b82f6">LPU × iamneo (NIIT)</text></g>
+</svg>

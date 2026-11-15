@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 330" width="860" height="330" role="img" aria-label="GitHub statistics dashboard">
+<title>GitHub statistics dashboard</title>
+<defs>
+<linearGradient id="line" x1="0" x2="1"><stop offset="0" stop-color="#00f5ff"/><stop offset=".5" stop-color="#7b2ff7"/><stop offset="1" stop-color="#ff00c8"/></linearGradient>
+<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0e1330"/><stop offset="1" stop-color="#070918"/></linearGradient>
+
+</defs>
+<rect width="860" height="330" rx="16" fill="url(#panel)"/>
+<rect x=".75" y=".75" width="858.5" height="328.5" rx="15.5" fill="none" stroke="url(#line)" stroke-opacity=".7" stroke-width="1.5"/>
+<text x="28" y="40" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" letter-spacing="2" fill="#00f5ff">// GITHUB TELEMETRY · LAST 12 MONTHS</text>
+<text x="832" y="40" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#8b9bc0">syncing: run the workflow once</text>
+<rect x="28" y="62" width="125" height="82" rx="10" fill="#0a0d24" stroke="#26306b" stroke-width="1"/>
+<text x="90.5" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#ffffff">--</text>
+<text x="90.5" y="128" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="1" fill="#8b9bc0">PUBLIC REPOS</text>
+<rect x="164" y="62" width="125" height="82" rx="10" fill="#0a0d24" stroke="#26306b" stroke-width="1"/>
+<text x="226.5" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#ffffff">--</text>
+<text x="226.5" y="128" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="1" fill="#8b9bc0">TOTAL STARS</text>
+<rect x="300" y="62" width="125" height="82" rx="10" fill="#0a0d24" stroke="#26306b" stroke-width="1"/>
+<text x="362.5" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#ffffff">--</text>
+<text x="362.5" y="128" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="1" fill="#8b9bc0">FOLLOWERS</text>
+<rect x="436" y="62" width="125" height="82" rx="10" fill="#0a0d24" stroke="#26306b" stroke-width="1"/>
+<text x="498.5" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#ffffff">--</text>
+<text x="498.5" y="128" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="1" fill="#8b9bc0">CONTRIBUTIONS</text>
+<rect x="572" y="62" width="125" height="82" rx="10" fill="#0a0d24" stroke="#26306b" stroke-width="1"/>
+<text x="634.5" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#ffffff">--</text>
+<text x="634.5" y="128" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="1" fill="#8b9bc0">CURRENT STREAK</text>
+<rect x="708" y="62" width="125" height="82" rx="10" fill="#0a0d24" stroke="#26306b" stroke-width="1"/>
+<text x="770.5" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#ffffff">--</text>
+<text x="770.5" y="128" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="1" fill="#8b9bc0">LONGEST STREAK</text>
+<text x="28" y="182" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" letter-spacing="2" fill="#00f5ff">// LANGUAGE DISTRIBUTION</text>
+<rect x="28" y="196" width="804" height="14" rx="7" fill="#151a3d"/>
+<text x="28" y="250" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#8b9bc0">Language data appears after the first workflow run (Actions tab, Run workflow).</text>
+</svg>

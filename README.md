@@ -1,112 +1,88 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:7b2ff7,100:ff00c8&height=240&section=header&text=Gopal%20Kumar&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=60&descSize=22" alt="header" />
-
 <a href="https://gopalnayak980.github.io/gopal-portfolio">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN+%2B+AI);Building+multi-agent+AI+systems;Solving+problems+on+LeetCode;B.Tech+CSE+%40+Lovely+Professional+University;Open+to+internships" alt="typing animation" />
+  <img src="assets/hero.svg" alt="Gopal Kumar, Full Stack Developer and AI Engineer. Engineering Intelligent Digital Experiences." width="100%" />
 </a>
 
-<br/><br/>
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00f5ff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://gopalnayak980.github.io/gopal-portfolio)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopalnayak2005)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=ffa116)](https://leetcode.com/u/Gopal_Nayak)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gopalnayak980)
-[![Email](https://img.shields.io/badge/EMAIL-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopal32452@gmail.com)
-
-![Followers](https://img.shields.io/github/followers/gopalnayak980?style=for-the-badge&logo=github&color=7b2ff7&labelColor=0f0c29)
-![Profile Views](https://komarev.com/ghpvc/?username=gopalnayak980&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS&labelColor=0f0c29)
+<a href="https://gopalnayak980.github.io/gopal-portfolio"><img src="assets/buttons/btn-portfolio.svg" alt="Portfolio" height="44" /></a>
+<a href="https://www.linkedin.com/in/gopalnayak2005"><img src="assets/buttons/btn-linkedin.svg" alt="LinkedIn" height="44" /></a>
+<a href="https://leetcode.com/u/Gopal_Nayak"><img src="assets/buttons/btn-leetcode.svg" alt="LeetCode" height="44" /></a>
+<a href="https://github.com/gopalnayak980"><img src="assets/buttons/btn-github.svg" alt="GitHub" height="44" /></a>
+<a href="mailto:gopal32452@gmail.com"><img src="assets/buttons/btn-email.svg" alt="Email" height="44" /></a>
+<a href="https://gopalnayak980.github.io/gopal-portfolio/assets/Gopal-Kumar-CV.pdf"><img src="assets/buttons/btn-resume.svg" alt="Resume" height="44" /></a>
 
 </div>
 
----
+<br/>
 
-## `> whoami`
+<img src="assets/headers/h-command.svg" alt="AI Developer Command Center" width="100%" />
 
-```bash
-name       : Gopal Kumar
-role       : Full Stack Developer (MERN + AI)
-education  : B.Tech CSE @ Lovely Professional University (2024-2028)
-focus      : AI agents, full stack web apps, real-world products
-status     : open to internships
-```
+<img src="assets/generated/stats.svg" alt="GitHub statistics: repositories, stars, followers, contributions, streaks and top languages" width="100%" />
 
----
+<img src="assets/generated/leetcode.svg" alt="LeetCode statistics" width="100%" />
 
-## `> tech_stack`
+<img src="assets/generated/profile-3d.svg" alt="3D contribution graph" width="100%" />
 
-<div align="center">
+<br/>
 
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind&theme=dark" alt="frontend" />
+<img src="assets/headers/h-tech.svg" alt="Technology Constellation" width="100%" />
 
-**Backend**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask&theme=dark" alt="backend" />
+<img src="assets/tech-constellation.svg" alt="Technology constellation: frontend, backend, languages, databases, AI and APIs, tools and cloud" width="100%" />
 
-**Databases and Cloud**<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,redis,firebase,vercel,netlify&theme=dark" alt="databases" />
+<br/>
 
-**Tools**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,npm&theme=dark" alt="tools" />
+<img src="assets/headers/h-lab.svg" alt="AI Software Lab" width="100%" />
 
-</div>
+<a href="https://github.com/gopalnayak980/DevAgent"><img src="assets/projects/p-devagent.svg" alt="DevAgent: AI software engineering agent platform" width="100%" /></a>
 
----
+**[Live demo](https://dev-agent-woad.vercel.app)** · **[Source code](https://github.com/gopalnayak980/DevAgent)**
 
-## `> featured_projects`
+<a href="https://github.com/gopalnayak980/hireai"><img src="assets/projects/p-hireai.svg" alt="HireAI: AI-powered job board and career assistant" width="100%" /></a>
 
-| Project | What it does | Stack | Links |
-|---|---|---|---|
-| **DevAgent** | Multi-agent AI engineering platform with human-approved code changes | React, FastAPI, Groq, Celery, PostgreSQL | [Live](https://dev-agent-woad.vercel.app) · [Code](https://github.com/gopalnayak980/DevAgent) |
-| **HireAI** | AI resume matcher and interview prep with live job listings | React, Node, MongoDB, Gemini | [Live](https://hireai-blond.vercel.app) · [Code](https://github.com/gopalnayak980/hireai) |
-| **JARVIS** | Bilingual (Hindi and English) voice assistant with memory and vision | Flask, Gemini, SQLite, WebRTC | [Live](https://jarvis-ai-8zh0.onrender.com) · [Code](https://github.com/gopalnayak980/jarvis-ai) |
-| **WanderList** | Airbnb-inspired travel listings with AI chatbot and price suggestions | Node, Express, MongoDB, Groq | [Live](https://wanderlist-1-msxf.onrender.com) · [Code](https://github.com/gopalnayak980/wanderlist) |
-| **Jai Mata Di Supplier** | Business website with material calculator and WhatsApp enquiry | HTML, CSS, JavaScript | [Live](https://jaimatadibuildingmaterial.com) · [Code](https://github.com/gopalnayak980/jai-mata-di-website) |
+**[Live demo](https://hireai-blond.vercel.app)** · **[Source code](https://github.com/gopalnayak980/hireai)**
 
----
+<a href="https://github.com/gopalnayak980/jarvis-ai"><img src="assets/projects/p-jarvis.svg" alt="JARVIS: bilingual AI voice assistant" width="100%" /></a>
 
-## `> contributions_3d`
+**[Live demo](https://jarvis-ai-8zh0.onrender.com)** · **[Source code](https://github.com/gopalnayak980/jarvis-ai)**
 
-<div align="center">
-  <img src="assets/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
-</div>
+<a href="https://github.com/gopalnayak980/wanderlist"><img src="assets/projects/p-wanderlist.svg" alt="WanderList: Airbnb-inspired travel listing platform" width="100%" /></a>
 
----
+**[Live demo](https://wanderlist-1-msxf.onrender.com)** · **[Source code](https://github.com/gopalnayak980/wanderlist)**
 
-## `> github_stats`
+<a href="https://github.com/gopalnayak980/jai-mata-di-website"><img src="assets/projects/p-jaimatadi.svg" alt="Jai Mata Di Supplier: website for a family building-materials business" width="100%" /></a>
 
-<div align="center">
+**[Live website](https://jaimatadibuildingmaterial.com)** · **[Source code](https://github.com/gopalnayak980/jai-mata-di-website)**
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gopalnayak980&theme=tokyonight" />
-<img height="180" src="https://streak-stats.demolab.com?user=gopalnayak980&theme=tokyonight&hide_border=true" />
+> Free-tier hosting (Render): the first load of JARVIS and WanderList can take 30 to 50 seconds while the server wakes up.
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-lang?username=gopalnayak980&theme=tokyonight" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gopalnayak980&theme=tokyonight" />
+<br/>
 
-</div>
+<img src="assets/headers/h-journey.svg" alt="Developer Journey" width="100%" />
 
----
+<img src="assets/journey.svg" alt="Developer timeline: B.Tech at LPU, core CS, CipherSchools MERN training, AI projects, AWS Essentials, DevAgent, open to internships" width="100%" />
 
-## `> leetcode_stats`
+<br/>
 
-<div align="center">
-  <a href="https://leetcode.com/u/Gopal_Nayak">
-    <img src="https://leetcard.jacoblin.cool/Gopal_Nayak?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
-  </a>
-</div>
+<img src="assets/headers/h-mission.svg" alt="Mission Log" width="100%" />
 
----
+<img src="assets/mission.svg" alt="Currently building DevAgent roadmap, currently learning React and DSA, next mission: full stack or AI internship" width="100%" />
 
-## `> trophies`
+<br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gopalnayak980&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
-</div>
+<img src="assets/headers/h-achieve.svg" alt="Achievement Gallery" width="100%" />
 
----
+<img src="assets/achievements.svg" alt="Certificates: AWS Cloud Practitioner Essentials, CipherSchools, NPTEL, Infosys Springboard, LPU" width="100%" />
 
-<div align="center">
-  <img src="assets/github-snake-dark.svg" alt="snake animation" width="100%" />
-</div>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00c8,50:7b2ff7,100:00f5ff&height=120&section=footer" width="100%" alt="footer" />
+<img src="assets/headers/h-beyond.svg" alt="Beyond the Code" width="100%" />
+
+<img src="assets/beyond.svg" alt="I don't just write code. I engineer possibilities." width="100%" />
+
+<br/>
+
+<img src="assets/generated/snake-dark.svg" alt="Contribution snake animation" width="100%" />
+
+<img src="assets/footer.svg" alt="Gopal Kumar, full stack and AI" width="100%" />

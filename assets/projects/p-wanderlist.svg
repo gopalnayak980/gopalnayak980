@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 356" width="860" height="356" role="img" aria-label="WanderList: Airbnb-inspired travel listing platform">
+<title>WanderList: Airbnb-inspired travel listing platform</title>
+
+<defs>
+<linearGradient id="neon" x1="0" x2="1"><stop offset="0" stop-color="#00f5ff"/><stop offset=".5" stop-color="#7b2ff7"/><stop offset="1" stop-color="#ff00c8"/></linearGradient>
+<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0e1330"/><stop offset="1" stop-color="#070918"/></linearGradient>
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="artclip"><rect x="16" y="16" width="236" height="324" rx="12"/></clipPath>
+</defs>
+
+<rect width="860" height="356" rx="16" fill="url(#panel)"/><rect x=".75" y=".75" width="858.5" height="354.5" rx="15.5" fill="none" stroke="#22d3a5" stroke-opacity=".8" stroke-width="1.5"/>
+<g fill="none" stroke="#22d3a5" stroke-width="2" stroke-opacity=".8" stroke-linecap="round"><path d="M10 26V10H26"/><path d="M834 10H850V26"/><path d="M10 330V346H26"/><path d="M834 346H850V330"/></g>
+<rect x="16" y="16" width="236" height="324" rx="12" fill="#22d3a5" fill-opacity=".05" stroke="#22d3a5" stroke-opacity=".35"/>
+<g clip-path="url(#artclip)"><g transform="translate(0 14)"><g transform="translate(125 148)">
+<circle r="30" fill="none" stroke="#22d3a5" stroke-opacity=".5"><animate attributeName="r" values="14;76;14" dur="3.6s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values=".7;0;.7" dur="3.6s" repeatCount="indefinite"/></circle>
+<circle r="30" fill="none" stroke="#22d3a5" stroke-opacity=".5"><animate attributeName="r" values="14;76;14" dur="3.6s" begin="-1.8s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values=".7;0;.7" dur="3.6s" begin="-1.8s" repeatCount="indefinite"/></circle>
+<path d="M0 36C-22 4 -26 -8 -26 -20A26 26 0 0 1 26 -20C26 -8 22 4 0 36Z" fill="#0a0d24" stroke="#22d3a5" stroke-width="2.4" filter="url(#soft)"/><circle cy="-20" r="9" fill="#22d3a5"/>
+<g font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" font-weight="700">
+<g transform="translate(-100 -78)"><rect width="66" height="24" rx="12" fill="#00f5ff" fill-opacity=".14" stroke="#00f5ff"/><text x="33" y="16.5" text-anchor="middle" fill="#00f5ff">Beach</text><animateTransform attributeName="transform" type="translate" values="-100 -78;-100 -86;-100 -78" dur="4s" repeatCount="indefinite"/></g>
+<g transform="translate(30 -88)"><rect width="84" height="24" rx="12" fill="#22d3a5" fill-opacity=".14" stroke="#22d3a5"/><text x="42" y="16.5" text-anchor="middle" fill="#22d3a5">Mountain</text><animateTransform attributeName="transform" type="translate" values="30 -88;30 -80;30 -88" dur="5s" repeatCount="indefinite"/></g>
+<g transform="translate(-96 52)"><rect width="52" height="24" rx="12" fill="#ffd43b" fill-opacity=".14" stroke="#ffd43b"/><text x="26" y="16.5" text-anchor="middle" fill="#ffd43b">City</text><animateTransform attributeName="transform" type="translate" values="-96 52;-96 44;-96 52" dur="4.5s" repeatCount="indefinite"/></g>
+<g transform="translate(38 56)"><rect width="66" height="24" rx="12" fill="#ff00c8" fill-opacity=".14" stroke="#ff00c8"/><text x="33" y="16.5" text-anchor="middle" fill="#ff00c8">Island</text><animateTransform attributeName="transform" type="translate" values="38 56;38 64;38 56" dur="3.8s" repeatCount="indefinite"/></g></g></g>
+<g transform="translate(34 262)"><rect width="182" height="30" rx="15" fill="#22d3a5" fill-opacity=".14" stroke="#22d3a5"/><text x="91" y="20" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12.5" font-weight="700" fill="#22d3a5">LIST · REVIEW · BOOK</text></g></g></g>
+<text x="290" y="44" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" letter-spacing="3" fill="#22d3a5">PROJECT 04</text>
+<text x="290" y="82" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="900" fill="#fff">WanderList</text>
+<text x="290" y="108" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#8b9bc0">Airbnb-inspired travel listing platform</text>
+<text x="290" y="140" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12.5" letter-spacing="2" fill="#00f5ff">PROBLEM SOLVED</text>
+<text x="290" y="162" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e6f1ff">Travellers and hosts need one place to list,</text>
+<text x="290" y="183" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e6f1ff">discover, review and book stays.</text>
+<text x="290" y="226" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12.5" letter-spacing="2" fill="#00f5ff">KEY FEATURES</text>
+<circle cx="294" cy="243" r="3" fill="#22d3a5"/><text x="306" y="248" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e6f1ff">Role-based auth, listing CRUD, reviews, bookings</text>
+<circle cx="294" cy="265" r="3" fill="#22d3a5"/><text x="306" y="270" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e6f1ff">Groq-powered travel chatbot</text>
+<circle cx="294" cy="287" r="3" fill="#22d3a5"/><text x="306" y="292" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e6f1ff">AI price suggestions + review summarisation</text>
+<rect x="290.0" y="302.0" width="76.3" height="27" rx="13.5" fill="#22d3a5" fill-opacity=".12" stroke="#22d3a5" stroke-opacity=".75"/><text x="328.2" y="320.1" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="600" fill="#e6f1ff">Node.js</text>
+<rect x="372.3" y="302.0" width="76.3" height="27" rx="13.5" fill="#22d3a5" fill-opacity=".12" stroke="#22d3a5" stroke-opacity=".75"/><text x="410.5" y="320.1" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="600" fill="#e6f1ff">Express</text>
+<rect x="454.6" y="302.0" width="76.3" height="27" rx="13.5" fill="#22d3a5" fill-opacity=".12" stroke="#22d3a5" stroke-opacity=".75"/><text x="492.8" y="320.1" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="600" fill="#e6f1ff">MongoDB</text>
+<rect x="537.0" y="302.0" width="46.4" height="27" rx="13.5" fill="#22d3a5" fill-opacity=".12" stroke="#22d3a5" stroke-opacity=".75"/><text x="560.2" y="320.1" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="600" fill="#e6f1ff">EJS</text>
+<rect x="589.4" y="302.0" width="98.8" height="27" rx="13.5" fill="#22d3a5" fill-opacity=".12" stroke="#22d3a5" stroke-opacity=".75"/><text x="638.8" y="320.1" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="600" fill="#e6f1ff">Cloudinary</text>
+<rect x="694.1" y="302.0" width="53.9" height="27" rx="13.5" fill="#22d3a5" fill-opacity=".12" stroke="#22d3a5" stroke-opacity=".75"/><text x="721.1" y="320.1" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="600" fill="#e6f1ff">Groq</text>
+</svg>
