@@ -9,7 +9,7 @@
 <linearGradient id="t" x1="0" x2="1"><stop offset="0" stop-color="#fff"/><stop offset=".6" stop-color="#00f5ff"/><stop offset="1" stop-color="#7b2ff7"/></linearGradient>
 <linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#00f5ff" stop-opacity=".8"/><stop offset="1" stop-color="#ff00c8" stop-opacity=".25"/></linearGradient>
 </defs>
-
+<rect width="860" height="74" rx="16" fill="#05060f"/>
 <text x="28" y="24" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" letter-spacing="2.5" fill="#00f5ff">// 01 · TELEMETRY</text>
 <text x="28" y="60" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" letter-spacing="1.5" fill="url(#t)">AI DEVELOPER COMMAND CENTER</text>
 <line x1="578" y1="48" x2="840" y2="48" stroke="#00f5ff" stroke-opacity=".45" stroke-width="1.5"/>

@@ -8,7 +8,7 @@
 <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 <linearGradient id="b" x1="0" x2="1"><stop offset="0" stop-color="#ffa116"/><stop offset="1" stop-color="#ff5e3a"/></linearGradient>
 </defs>
-
+<rect width="150" height="48" rx="16" fill="#05060f"/>
 <rect x="1" y="1" width="148" height="46" rx="24" fill="#080b1f"/>
 <rect x="1" y="1" width="148" height="46" rx="24" fill="url(#b)" fill-opacity=".14"/>
 <rect x="1.5" y="1.5" width="147" height="45" rx="23.5" fill="none" stroke="url(#b)" stroke-width="1.6"/>

@@ -9,7 +9,7 @@
 <linearGradient id="w1" x1="0" x2="1"><stop offset="0" stop-color="#00f5ff"/><stop offset=".5" stop-color="#7b2ff7"/><stop offset="1" stop-color="#ff00c8"/></linearGradient>
 <linearGradient id="w2" x1="1" x2="0"><stop offset="0" stop-color="#3b82f6"/><stop offset="1" stop-color="#ff00c8"/></linearGradient>
 </defs>
-
+<rect width="860" height="150" rx="16" fill="#05060f"/>
 <path fill="url(#w1)" opacity=".55"><animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0 150 L0 58.0 L108 70.5 L215 69.3 L322 55.8 L430 44.7 L538 48.1 L645 62.4 L752 71.8 L860 66.2 L860 150 Z;M0 150 L0 72.0 L108 64.0 L215 49.4 L322 44.2 L430 54.1 L538 68.2 L645 71.2 L752 59.7 L860 46.4 L860 150 Z;M0 150 L0 57.2 L108 45.2 L215 47.2 L322 61.0 L430 71.6 L538 67.3 L645 52.9 L752 44.1 L860 50.5 L860 150 Z;M0 150 L0 58.0 L108 70.5 L215 69.3 L322 55.8 L430 44.7 L538 48.1 L645 62.4 L752 71.8 L860 66.2 L860 150 Z"/></path>
 <path fill="url(#w2)" opacity=".5"><animate attributeName="d" dur="12s" repeatCount="indefinite" values="M0 150 L0 67.1 L108 58.4 L215 49.3 L322 49.7 L430 59.2 L538 67.4 L645 65.3 L752 55.3 L860 48.2 L860 150 Z;M0 150 L0 50.4 L108 48.7 L215 57.2 L322 66.5 L430 66.5 L538 57.2 L645 48.8 L752 50.4 L860 60.3 L860 150 Z;M0 150 L0 61.9 L108 68.0 L215 63.2 L322 52.7 L430 48.0 L538 54.3 L645 64.6 L752 67.7 L860 60.2 L860 150 Z;M0 150 L0 67.1 L108 58.4 L215 49.3 L322 49.7 L430 59.2 L538 67.4 L645 65.3 L752 55.3 L860 48.2 L860 150 Z"/></path>
 <text x="430.0" y="104" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" letter-spacing="3" fill="#fff" fill-opacity=".9">GOPAL KUMAR  //  FULL STACK × AI  //  THANKS FOR VISITING</text>

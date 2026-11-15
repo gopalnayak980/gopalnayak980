@@ -8,7 +8,7 @@
 <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 
 </defs>
-
+<rect width="860" height="366" rx="16" fill="#05060f"/>
 <g><rect x="14" y="14" width="403" height="100" rx="14" fill="url(#panel)" stroke="#00f5ff" stroke-opacity=".55"/>
 <polygon points="93.7,48.0 93.7,80.0 66.0,96.0 38.3,80.0 38.3,48.0 66.0,32.0" fill="#00f5ff" fill-opacity=".12" stroke="#00f5ff" stroke-width="2" filter="url(#soft)"/>
 <polygon points="83.3,54.0 83.3,74.0 66.0,84.0 48.7,74.0 48.7,54.0 66.0,44.0" fill="none" stroke="#00f5ff" stroke-opacity=".8"><animateTransform attributeName="transform" type="rotate" from="0 66 64.0" to="360 66 64.0" dur="12s" repeatCount="indefinite"/></polygon>
