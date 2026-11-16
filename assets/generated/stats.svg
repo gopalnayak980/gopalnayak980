@@ -8,26 +8,50 @@
 <rect width="860" height="330" rx="16" fill="url(#panel)"/>
 <rect x=".75" y=".75" width="858.5" height="328.5" rx="15.5" fill="none" stroke="url(#line)" stroke-opacity=".7" stroke-width="1.5"/>
 <text x="28" y="40" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" letter-spacing="2" fill="#00f5ff">// GITHUB TELEMETRY · LAST 12 MONTHS</text>
-<text x="832" y="40" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#8b9bc0">syncing: run the workflow once</text>
+<text x="832" y="40" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#8b9bc0">live via GitHub Actions</text>
 <rect x="28" y="62" width="125" height="82" rx="10" fill="#0a0d24" stroke="#26306b" stroke-width="1"/>
-<text x="90.5" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#ffffff">--</text>
+<text x="90.5" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#ffffff">31</text>
 <text x="90.5" y="128" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="1" fill="#8b9bc0">PUBLIC REPOS</text>
 <rect x="164" y="62" width="125" height="82" rx="10" fill="#0a0d24" stroke="#26306b" stroke-width="1"/>
-<text x="226.5" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#ffffff">--</text>
+<text x="226.5" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#ffffff">0</text>
 <text x="226.5" y="128" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="1" fill="#8b9bc0">TOTAL STARS</text>
 <rect x="300" y="62" width="125" height="82" rx="10" fill="#0a0d24" stroke="#26306b" stroke-width="1"/>
-<text x="362.5" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#ffffff">--</text>
+<text x="362.5" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#ffffff">2</text>
 <text x="362.5" y="128" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="1" fill="#8b9bc0">FOLLOWERS</text>
 <rect x="436" y="62" width="125" height="82" rx="10" fill="#0a0d24" stroke="#26306b" stroke-width="1"/>
-<text x="498.5" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#ffffff">--</text>
+<text x="498.5" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#ffffff">165</text>
 <text x="498.5" y="128" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="1" fill="#8b9bc0">CONTRIBUTIONS</text>
 <rect x="572" y="62" width="125" height="82" rx="10" fill="#0a0d24" stroke="#26306b" stroke-width="1"/>
-<text x="634.5" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#ffffff">--</text>
+<text x="634.5" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#ffffff">1</text>
 <text x="634.5" y="128" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="1" fill="#8b9bc0">CURRENT STREAK</text>
 <rect x="708" y="62" width="125" height="82" rx="10" fill="#0a0d24" stroke="#26306b" stroke-width="1"/>
-<text x="770.5" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#ffffff">--</text>
+<text x="770.5" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#ffffff">4</text>
 <text x="770.5" y="128" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="1" fill="#8b9bc0">LONGEST STREAK</text>
 <text x="28" y="182" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" letter-spacing="2" fill="#00f5ff">// LANGUAGE DISTRIBUTION</text>
-<rect x="28" y="196" width="804" height="14" rx="7" fill="#151a3d"/>
-<text x="28" y="250" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#8b9bc0">Language data appears after the first workflow run (Actions tab, Run workflow).</text>
+<clipPath id="barclip"><rect x="28" y="196" width="804" height="14" rx="7"/></clipPath><g clip-path="url(#barclip)">
+<rect x="28.0" y="196" width="441.8" height="14" fill="#e34c26"/>
+<rect x="469.8" y="196" width="178.5" height="14" fill="#f7df1e"/>
+<rect x="648.2" y="196" width="107.8" height="14" fill="#3776ab"/>
+<rect x="756.1" y="196" width="62.3" height="14" fill="#9b6bff"/>
+<rect x="818.3" y="196" width="13.5" height="14" fill="#a91e50"/>
+<rect x="831.9" y="196" width="0.1" height="14" fill="#ffb703"/>
+</g>
+<circle cx="35" cy="239" r="7" fill="#e34c26"/>
+<text x="52" y="244" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="600" fill="#e6f1ff">HTML</text>
+<text x="264" y="244" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#8b9bc0">54.9%</text>
+<circle cx="305" cy="239" r="7" fill="#f7df1e"/>
+<text x="322" y="244" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="600" fill="#e6f1ff">JavaScript</text>
+<text x="534" y="244" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#8b9bc0">22.2%</text>
+<circle cx="575" cy="239" r="7" fill="#3776ab"/>
+<text x="592" y="244" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="600" fill="#e6f1ff">Python</text>
+<text x="804" y="244" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#8b9bc0">13.4%</text>
+<circle cx="35" cy="275" r="7" fill="#9b6bff"/>
+<text x="52" y="280" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="600" fill="#e6f1ff">CSS</text>
+<text x="264" y="280" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#8b9bc0">7.7%</text>
+<circle cx="305" cy="275" r="7" fill="#a91e50"/>
+<text x="322" y="280" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="600" fill="#e6f1ff">EJS</text>
+<text x="534" y="280" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#8b9bc0">1.7%</text>
+<circle cx="575" cy="275" r="7" fill="#ffb703"/>
+<text x="592" y="280" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="600" fill="#e6f1ff">Mako</text>
+<text x="804" y="280" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#8b9bc0">0.0%</text>
 </svg>
