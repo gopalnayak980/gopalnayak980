@@ -19,29 +19,29 @@
 <text x="362.5" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#ffffff">2</text>
 <text x="362.5" y="128" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="1" fill="#8b9bc0">FOLLOWERS</text>
 <rect x="436" y="62" width="125" height="82" rx="10" fill="#0a0d24" stroke="#26306b" stroke-width="1"/>
-<text x="498.5" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#ffffff">178</text>
+<text x="498.5" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#ffffff">186</text>
 <text x="498.5" y="128" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="1" fill="#8b9bc0">CONTRIBUTIONS</text>
 <rect x="572" y="62" width="125" height="82" rx="10" fill="#0a0d24" stroke="#26306b" stroke-width="1"/>
-<text x="634.5" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#ffffff">2</text>
+<text x="634.5" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#ffffff">3</text>
 <text x="634.5" y="128" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="1" fill="#8b9bc0">CURRENT STREAK</text>
 <rect x="708" y="62" width="125" height="82" rx="10" fill="#0a0d24" stroke="#26306b" stroke-width="1"/>
 <text x="770.5" y="104" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#ffffff">4</text>
 <text x="770.5" y="128" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="1" fill="#8b9bc0">LONGEST STREAK</text>
 <text x="28" y="182" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" letter-spacing="2" fill="#00f5ff">// LANGUAGE DISTRIBUTION</text>
 <clipPath id="barclip"><rect x="28" y="196" width="804" height="14" rx="7"/></clipPath><g clip-path="url(#barclip)">
-<rect x="28.0" y="196" width="431.8" height="14" fill="#e34c26"/>
-<rect x="459.8" y="196" width="198.9" height="14" fill="#f7df1e"/>
-<rect x="658.7" y="196" width="101.7" height="14" fill="#3776ab"/>
-<rect x="760.4" y="196" width="58.7" height="14" fill="#9b6bff"/>
-<rect x="819.1" y="196" width="12.7" height="14" fill="#a91e50"/>
+<rect x="28.0" y="196" width="429.8" height="14" fill="#e34c26"/>
+<rect x="457.8" y="196" width="201.7" height="14" fill="#f7df1e"/>
+<rect x="659.5" y="196" width="101.2" height="14" fill="#3776ab"/>
+<rect x="760.7" y="196" width="58.5" height="14" fill="#9b6bff"/>
+<rect x="819.2" y="196" width="12.7" height="14" fill="#a91e50"/>
 <rect x="831.9" y="196" width="0.1" height="14" fill="#ffb703"/>
 </g>
 <circle cx="35" cy="239" r="7" fill="#e34c26"/>
 <text x="52" y="244" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="600" fill="#e6f1ff">HTML</text>
-<text x="264" y="244" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#8b9bc0">53.7%</text>
+<text x="264" y="244" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#8b9bc0">53.5%</text>
 <circle cx="305" cy="239" r="7" fill="#f7df1e"/>
 <text x="322" y="244" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="600" fill="#e6f1ff">JavaScript</text>
-<text x="534" y="244" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#8b9bc0">24.7%</text>
+<text x="534" y="244" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#8b9bc0">25.1%</text>
 <circle cx="575" cy="239" r="7" fill="#3776ab"/>
 <text x="592" y="244" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="600" fill="#e6f1ff">Python</text>
 <text x="804" y="244" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#8b9bc0">12.6%</text>
